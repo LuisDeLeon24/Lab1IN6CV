@@ -1,13 +1,8 @@
 .body{
-    background-color: rgb(181, 211, 224);
-    font-family: "Lora";
+    background-color: rgb(0, 0, 0);
  }
   
- .jersey-15-regular {
-    font-family: "Jersey 15", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
+ 
 
 img{
     float: right;
@@ -15,10 +10,13 @@ img{
     height: 400;
 }
 
-.lora {
-    font-family: "Lora", serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-  }
+
+  .d-block{
+    height: 800px;
+    width: 100px;
+}
+
+.w3-container{
+  padding-top: 70px;
+}
 

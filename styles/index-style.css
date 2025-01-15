@@ -9,8 +9,25 @@
     font-style: normal;
   }
 
-img{
-    float: right;
-    width: 400;
-    height: 400;
+
+footer {
+  margin-top: 30px;
+  text-align: center;
+  padding: 75px;
+  background-color: rgb(34, 33, 32);
+  color: white;
+}
+
+.custom-card{
+  width: 24rem;
+}
+
+.card img{
+  height: 15rem;
+  object-fit: cover;
+}
+
+.d-block{
+  height: 800px;
+  width: 100px;
 }
